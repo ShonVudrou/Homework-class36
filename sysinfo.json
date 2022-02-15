@@ -1,0 +1,42 @@
+{
+  "node": "v16.13.2",
+  "system": {
+    "manufacturer": "Apple Inc.",
+    "model": "MacBookPro11,3"
+  },
+  "cpu": {
+    "manufacturer": "Intel®",
+    "brand": "Core™ i7-4960HQ",
+    "speed": 2.6
+  },
+  "memory": "16 GB",
+  "osInfo": {
+    "platform": "darwin",
+    "distro": "Mac OS X",
+    "release": "10.14.6"
+  },
+  "vscodeInfo": {
+    "version": "1.64.2",
+    "extensions": [
+      "akamud.vscode-theme-onedark",
+      "beastdestroyer.firefox-quantum-themes",
+      "cdonohue.polychrome-vscode-themes",
+      "Donaldtone.auto-open-markdown-preview-single",
+      "Equinusocio.vsc-community-material-theme",
+      "Equinusocio.vsc-material-theme",
+      "equinusocio.vsc-material-theme-icons",
+      "esbenp.prettier-vscode",
+      "ritwickdey.LiveServer"
+    ],
+    "userSettings": {
+      "workbench.colorTheme": "Community Material Theme Palenight High Contrast",
+      "files.autoSave": "afterDelay",
+      "files.autoSaveDelay": 600,
+      "liveServer.settings.donotVerifyTags": true,
+      "editor.formatOnSave": true,
+      "editor.defaultFormatter": "esbenp.prettier-vscode",
+      "window.newWindowDimensions": "inherit",
+      "window.zoomLevel": 1
+    }
+  }
+}
